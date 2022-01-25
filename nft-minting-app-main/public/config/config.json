@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc5fa8fab8c791c5dacd10419d1786603d4eb8276",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x788121ff06f8b0b49e39ce53769554a9d3a1808343e0dccf7669623332c32f10",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Comfy Chicks",
+  "SYMBOL": "CCNFT",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/comfy-chicks",
+  "SHOW_BACKGROUND": true
+}
